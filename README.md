@@ -2,7 +2,7 @@
 
 I wanted to try using [Atkinson Hyperlegible][] in [Lagrange][]. Because I wanted better reproducibility than what I’d get from just relying on my shell’s history, I made a Makefile to capture the process, automate cleaning, and make it easier to make more than one fontpack.
 
-_Unlike_ my Lagrange fontpacks for [MB Type][] and [U.S. Graphics][], this fontpack comes with the font it’s for. Just drag the .fontpack file on top of Lagrange and it should install.
+_Unlike_ my Lagrange fontpacks for [MB Type][] and [U.S. Graphics][] fonts, this fontpack comes with the font it’s for. Just drag the .fontpack file on top of Lagrange and it should install.
 
 ## License
 
